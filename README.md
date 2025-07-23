@@ -1,16 +1,16 @@
-# 🧠 Mental Health Anomaly Detection
+# Mental Health Anomaly Detection
 
 A machine learning project to detect potential mental health anomalies using biometric, lifestyle, and physiological data. Built with a clean modular structure and deployed via a Streamlit web interface.
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 This project takes various health-related inputs like age, sleep, mood, heart rate, and stress level, and uses a trained ML model to predict potential anomalies in mental health.
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - **Python**
 - **scikit-learn**
@@ -20,7 +20,7 @@ This project takes various health-related inputs like age, sleep, mood, heart ra
 
 ---
 
-## 📊 Features
+## Features
 
 - Data preprocessing and feature engineering
 - Model selection using performance metrics
@@ -30,7 +30,7 @@ This project takes various health-related inputs like age, sleep, mood, heart ra
 
 ---
 
-## 🖥️ Input Features
+## Input Features
 
 | Feature                 | Description                          | Example        |
 |------------------------|--------------------------------------|----------------|
